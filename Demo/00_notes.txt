@@ -14,6 +14,10 @@ assert - https://realpython.com/python-assert-statement/
 ============================================================
 The assert keyword is used when debugging code. The assert keyword lets you test if a condition in your code returns True, if not, the program will raise an AssertionError.
 
-await - 
-============
+await - https://agariinc.medium.com/strategies-for-testing-async-code-in-python-c52163f2deab
+================================================================================================
 The await keyword is used to wait for the eventual results of the object returned by such a function
+
+middleware - https://oz123.github.io/advanced-python/book/middlewares.html
+=============================================================================
+A middleware is an object that wrapps the original application, hence the name. A middle is called between the application and the server. It can modify the response or the environment or route requests to different application objects.
