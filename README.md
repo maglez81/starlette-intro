@@ -20,3 +20,6 @@ A middleware is an object that wrapps the original application, hence the name. 
 
 ####  jinja - https://jinja.palletsprojects.com/en/3.0.x/intro/
 Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
+
+### Mangum - https://github.com/jordaneremieff/mangum
+Mangum is an adapter for running ASGI applications in AWS Lambda to handle Function URL, API Gateway, ALB, and Lambda@Edge events. Documentation: https://mangum.io/
