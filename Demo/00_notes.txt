@@ -21,3 +21,8 @@ The await keyword is used to wait for the eventual results of the object returne
 middleware - https://oz123.github.io/advanced-python/book/middlewares.html
 =============================================================================
 A middleware is an object that wrapps the original application, hence the name. A middle is called between the application and the server. It can modify the response or the environment or route requests to different application objects.
+
+jinja - https://jinja.palletsprojects.com/en/3.0.x/intro/
+=============================================================================
+Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
+
